@@ -1,0 +1,16 @@
+com\bilgeadam\icerikyonetimi\repository\entity\Role.class
+com\bilgeadam\icerikyonetimi\repository\entity\User.class
+com\bilgeadam\icerikyonetimi\impl\ImplData.class
+com\bilgeadam\icerikyonetimi\utility\MyFactoryRepository.class
+com\bilgeadam\icerikyonetimi\repository\entity\Lesson.class
+com\bilgeadam\icerikyonetimi\utility\MyFactoryService.class
+com\bilgeadam\icerikyonetimi\service\UserService.class
+com\bilgeadam\icerikyonetimi\utility\HibernateUtility.class
+com\bilgeadam\icerikyonetimi\repository\entity\Subject.class
+com\bilgeadam\icerikyonetimi\repository\UserRepository.class
+com\bilgeadam\icerikyonetimi\Runner.class
+com\bilgeadam\icerikyonetimi\repository\entity\SubjectDetail.class
+com\bilgeadam\icerikyonetimi\utility\IMyCrud.class
+com\bilgeadam\icerikyonetimi\repository\entity\Answers.class
+com\bilgeadam\icerikyonetimi\repository\entity\Questions.class
+com\bilgeadam\icerikyonetimi\utility\IMyRepository.class
